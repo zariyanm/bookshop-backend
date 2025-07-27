@@ -1,0 +1,20 @@
+[
+    {
+        "isbn": "123",
+        "title": "Book A",
+        "author": "Author 1",
+        "reviews": []
+    },
+    {
+        "isbn": "456",
+        "title": "Book B",
+        "author": "Author 2",
+        "reviews": []
+    },
+    {
+        "isbn": "789",
+        "title": "Book C",
+        "author": "Author 1",
+        "reviews": []
+    }
+]
